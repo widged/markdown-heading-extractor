@@ -1,0 +1,17 @@
+{
+  "name": "my-package",
+  "version": "1.0.0",
+  "scripts": {},
+  "dependencies": {
+    "nedb": "1.8.0",
+    "remark-code-extra": "1.0.0",
+    "remark-highlight.js": "5.1.1",
+    "remark-html": "9.0.1",
+    "remark-parse": "6.0.3",
+    "to-vfile": "6.0.0",
+    "unified": "8.0.0",
+    "unist-util-visit": "1.4.1",
+    "vfile-reporter": "6.0.0",
+    "walk": "2.3.14"
+  }
+}
